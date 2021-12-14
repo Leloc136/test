@@ -1,0 +1,6 @@
+Thiết kế một website có đầy đủ các thẻ đã học 
+1 thẻ tiêu đề h1 
+2 thẻ bảng table 
+3 thẻ danh sách ul li
+4 thẻ liên kết a
+5 thẻ anh img
